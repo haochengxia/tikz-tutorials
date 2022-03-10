@@ -1,4 +1,4 @@
-# tikz-tutorial
+# tikz-tutorials
 
 TikZ中文教程，仅包含*PGF Manual (Version 3.1.9a)* “Part 1 Tutorials and Guidelines”翻译，以及个人实践。
 
@@ -11,13 +11,13 @@ TikZ中文教程，仅包含*PGF Manual (Version 3.1.9a)* “Part 1 Tutorials an
 
 | 编号 | 章节 | 初翻 | 校对 |
 | - | - | - | - |
-| 1 | [Tutorial: A Picture for Karl’s Students](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/08 -  | WL |
-| 2 | [Tutorial: A Petri-Net for Hagen](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/08 -  | WL |
-| 3 | [Tutorial: Euclid’s Amber Version of the Elements](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/08 -  | WL |
-| 4 | [Tutorial: Diagrams as Simple Graphs](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/08 -  | WL |
-| 5 | [Tutorial: A Lecture Map for Johannes](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/08 -  | WL |
-| 6 | [Guidelines on Graphics](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/08 -  | WL |
-| 7 | [Practice and Application](https://www.overleaf.com/read/xvmrzvppygtf) | LTS | LTS |
+| 1 | [Tutorial: A Picture for Karl’s Students](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/08 - 2022/03/10  | WL |
+| 2 | [Tutorial: A Petri-Net for Hagen](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/10 -  | WL |
+| 3 | [Tutorial: Euclid’s Amber Version of the Elements](https://www.overleaf.com/read/xvmrzvppygtf) | WL  | WL |
+| 4 | [Tutorial: Diagrams as Simple Graphs](https://www.overleaf.com/read/xvmrzvppygtf) | WL  | WL |
+| 5 | [Tutorial: A Lecture Map for Johannes](https://www.overleaf.com/read/xvmrzvppygtf) | WL  | WL |
+| 6 | [Guidelines on Graphics](https://www.overleaf.com/read/xvmrzvppygtf) | WL | WL |
+| 7 | [Practice and Applications](https://www.overleaf.com/read/xvmrzvppygtf) | LTS | LTS |
 
 ## Overleaf
 
