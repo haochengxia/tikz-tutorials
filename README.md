@@ -12,8 +12,8 @@ TikZ中文教程，仅包含*PGF Manual (Version 3.1.9a)* “Part 1 Tutorials an
 | 编号 | 章节 | 初翻 | 校对 |
 | - | - | - | - |
 | 1 | [Tutorial: A Picture for Karl’s Students](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/08 - 2022/03/10  | WL |
-| 2 | [Tutorial: A Petri-Net for Hagen](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/10 -  | WL |
-| 3 | [Tutorial: Euclid’s Amber Version of the Elements](https://www.overleaf.com/read/xvmrzvppygtf) | WL  | WL |
+| 2 | [Tutorial: A Petri-Net for Hagen](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/10 - 2022/03/17 | WL |
+| 3 | [Tutorial: Euclid’s Amber Version of the Elements](https://www.overleaf.com/read/xvmrzvppygtf) | 2022/03/17 -  | WL |
 | 4 | [Tutorial: Diagrams as Simple Graphs](https://www.overleaf.com/read/xvmrzvppygtf) | WL  | WL |
 | 5 | [Tutorial: A Lecture Map for Johannes](https://www.overleaf.com/read/xvmrzvppygtf) | WL  | WL |
 | 6 | [Guidelines on Graphics](https://www.overleaf.com/read/xvmrzvppygtf) | WL | WL |
